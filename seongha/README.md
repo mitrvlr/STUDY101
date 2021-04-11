@@ -4,6 +4,7 @@
 
 *관심사*
 - HTML, CSS, Javascript, Vue, React
+- Front-end Architecture
 
 ## 2021-04-11
 
