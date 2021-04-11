@@ -8,4 +8,4 @@
 ## 2021-04-11
 
 - Read Typescript Post [TS Post](https://heropy.blog/2020/01/27/typescript)
-- lean Javascript deep dive 
+- learn Javascript deep dive 
