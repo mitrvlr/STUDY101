@@ -7,5 +7,5 @@
 
 ## 2021-04-11
 
-- Read Typescript Post [TS Post](https://heropy.blog/2020/01/27/typescript)
+- Read Typescript article [TS article](https://heropy.blog/2020/01/27/typescript)
 - learn Javascript deep dive 
